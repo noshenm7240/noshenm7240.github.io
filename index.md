@@ -1,8 +1,6 @@
-title: welcome to the Noshenm7240's homepage!
-description; Feel free to bookmark this to keep an eye on my project updates
 
 
-## Welcome to GitHub Pages
+## Welcome to Noshenm7240's homepage
 
 You can use the [editor on GitHub](https://github.com/noshenm7240/noshenm7240.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
